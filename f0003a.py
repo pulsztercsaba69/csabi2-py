@@ -1,3 +1,3 @@
-vezetéknév = input('pulszter')
-keresztnév = input('csaba')
-print('A te neved', vezetéknév, ' ', keresztnév, '.')
+vezetéknév = input('mi a vezetéknév?')
+keresztnév = input('mi a keresztnév?')
+print('szia', vezetéknév, keresztnév)
